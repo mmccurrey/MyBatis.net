@@ -1,0 +1,1 @@
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\obj\Release\IBatisNet.DataMapper.2010.csprojResolveAssemblyReference.cache

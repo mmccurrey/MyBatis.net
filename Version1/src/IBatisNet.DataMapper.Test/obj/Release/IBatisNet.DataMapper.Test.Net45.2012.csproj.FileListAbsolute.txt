@@ -1,0 +1,13 @@
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\bin\Release\IBatisNet.DataMapper.Test.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\bin\Release\IBatisNet.Common.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\bin\Release\IBatisNet.Common.Logging.Log4Net.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\bin\Release\IBatisNet.DataMapper.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\bin\Release\log4net.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\bin\Release\nunit.framework.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\bin\Release\Castle.Core.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\bin\Release\IBatisNet.Common.Logging.Log4Net.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\bin\Release\IBatisNet.Common.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\bin\Release\IBatisNet.DataMapper.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\bin\Release\log4net.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\obj\Release\IBatisNet.DataMapper.Test.Net45.2012.csprojResolveAssemblyReference.cache
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper.Test\obj\Release\IBatisNet.DataMapper.Test.dll

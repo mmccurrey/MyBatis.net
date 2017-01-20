@@ -1,0 +1,5 @@
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common\bin\Release\IBatisNet.Common.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common\bin\Release\IBatisNet.Common.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common\bin\Release\Castle.DynamicProxy.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common\obj\Release\IBatisNet.Common.2010.csprojResolveAssemblyReference.cache
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common\obj\Release\IBatisNet.Common.dll

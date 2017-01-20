@@ -1,0 +1,13 @@
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\bin\Debug\IBatisNet.DataAccess.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\bin\Debug\IBatisNet.DataAccess.pdb
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\bin\Debug\IBatisNet.DataAccess.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\bin\Debug\Castle.Core.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\bin\Debug\IBatisNet.Common.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\bin\Debug\IBatisNet.DataMapper.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\bin\Debug\IBatisNet.Common.pdb
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\bin\Debug\IBatisNet.Common.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\bin\Debug\IBatisNet.DataMapper.pdb
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\bin\Debug\IBatisNet.DataMapper.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\obj\Debug\IBatisNet.DataAccess.Net45.2012.csprojResolveAssemblyReference.cache
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\obj\Debug\IBatisNet.DataAccess.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataAccess\obj\Debug\IBatisNet.DataAccess.pdb

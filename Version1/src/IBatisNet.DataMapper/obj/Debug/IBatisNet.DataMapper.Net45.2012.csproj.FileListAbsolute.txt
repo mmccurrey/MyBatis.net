@@ -1,0 +1,10 @@
+c:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\bin\Debug\IBatisNet.DataMapper.dll
+c:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\bin\Debug\IBatisNet.DataMapper.pdb
+c:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\bin\Debug\IBatisNet.DataMapper.xml
+c:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\bin\Debug\Castle.Core.dll
+c:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\bin\Debug\IBatisNet.Common.dll
+c:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\bin\Debug\IBatisNet.Common.pdb
+c:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\bin\Debug\IBatisNet.Common.xml
+c:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\obj\Debug\IBatisNet.DataMapper.Net45.2012.csprojResolveAssemblyReference.cache
+c:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\obj\Debug\IBatisNet.DataMapper.dll
+c:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\obj\Debug\IBatisNet.DataMapper.pdb

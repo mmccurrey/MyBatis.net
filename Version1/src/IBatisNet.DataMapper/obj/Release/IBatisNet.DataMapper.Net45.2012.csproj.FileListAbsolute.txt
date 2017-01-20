@@ -1,0 +1,7 @@
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\bin\Release\IBatisNet.DataMapper.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\bin\Release\IBatisNet.DataMapper.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\bin\Release\Castle.Core.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\bin\Release\IBatisNet.Common.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\bin\Release\IBatisNet.Common.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\obj\Release\IBatisNet.DataMapper.Net45.2012.csprojResolveAssemblyReference.cache
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.DataMapper\obj\Release\IBatisNet.DataMapper.dll

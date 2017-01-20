@@ -1,0 +1,7 @@
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common\obj\Debug\IBatisNet.Common.pdb
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common\bin\Debug\IBatisNet.Common.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common\bin\Debug\IBatisNet.Common.pdb
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common\bin\Debug\IBatisNet.Common.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common\obj\Debug\IBatisNet.Common.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common\bin\Debug\Castle.Core.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common\bin\Debug\Castle.Core.xml

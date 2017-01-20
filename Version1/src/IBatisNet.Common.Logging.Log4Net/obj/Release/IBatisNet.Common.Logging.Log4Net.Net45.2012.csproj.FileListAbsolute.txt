@@ -1,0 +1,8 @@
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common.Logging.Log4Net\bin\Release\IBatisNet.Common.Logging.Log4Net.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common.Logging.Log4Net\bin\Release\IBatisNet.Common.Logging.Log4Net.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common.Logging.Log4Net\bin\Release\IBatisNet.Common.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common.Logging.Log4Net\bin\Release\log4net.dll
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common.Logging.Log4Net\bin\Release\IBatisNet.Common.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common.Logging.Log4Net\bin\Release\log4net.xml
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common.Logging.Log4Net\obj\Release\IBatisNet.Common.Logging.Log4Net.Net45.2012.csprojResolveAssemblyReference.cache
+C:\ProjectsOPEN\MyBatis.NET v1\src\IBatisNet.Common.Logging.Log4Net\obj\Release\IBatisNet.Common.Logging.Log4Net.dll
